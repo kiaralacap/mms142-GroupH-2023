@@ -1,4 +1,4 @@
-# mms142-GroupH-2023
+# MMS142-GroupH-2023
 3D Printing as Disruptive Technology
 Hello! We are Group H of MMS 142
 Group members: 
